@@ -1,4 +1,4 @@
 # sql-challenge
-emp_schema.sql is the schemata file 
-queries.sql has all the queries 
+EmployeeSQL/emp_schema.sql is the schemata file 
+EmployeeSQL/queries.sql has all the queries 
 
